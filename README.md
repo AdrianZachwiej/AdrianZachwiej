@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdrianZachwiej
 - 👀 I’m interested in software testing and development
-- 🌱 I’m currently learning Java, SQL and testing theory.
+- 🌱 I’m currently learning Java, SQL, Junit and Selenium.
 
 
 <!---
